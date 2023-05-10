@@ -15,4 +15,4 @@ const countIt = (word) => {
   }
   return count;
 };
-console.log(countIt("    ham burger!"));
+console.log(countIt("The quick brown fox jumps over the lazy dog and the sleeping cat early in the day."));
